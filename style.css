@@ -1,0 +1,47 @@
+
+
+.title{
+    font-size:80px;
+}
+body{
+    background: url("./sky.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;  
+   
+}
+img{
+    height: 250px;
+    width: 250px;
+    border-radius: 10% 10% 10% 10%;
+    margin-top: 10px;
+    box-shadow: 5px 5px 5px lightgoldenrodyellow;
+}
+
+.main{
+    display:flex;
+    justify-content:space-evenly;
+    /*border: 5px solid rgb(6, 15, 133);*/
+    background: rgb(192, 193, 213);    
+}
+
+h1{
+    margin-bottom: 100px;
+    color: rgb(72, 55, 55);
+    text-shadow: 5px 5px 5px brown;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 1000;
+}
+
+h3{
+    text-align: center;
+    font-size: xx-large;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(26, 4, 68);
+}
+
+img:hover{
+    opacity: 1;
+    width: 280px;
+    height: 280px;
+}
+

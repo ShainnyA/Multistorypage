@@ -1,0 +1,20 @@
+body{
+    background: url("./winterseason.jpg");
+    background-repeat: no-repeat;
+    background-size:cover; 
+}
+h1{
+    font-size:100px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(14, 7, 90);
+    text-shadow: 5px 5px 5px rgb(8, 200, 230);
+    
+ }
+ .winter1{
+        color: rgb(40, 12, 76);
+        font-size: larger;
+        
+        margin-left: 200px;
+        margin-right: 170px;
+        margin-top: -50px;
+ }

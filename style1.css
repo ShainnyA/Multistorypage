@@ -1,0 +1,22 @@
+body{
+    background: url("./springseason.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;  
+   
+}
+
+
+h1{
+    font-size:100px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(66, 4, 57);
+    text-shadow: 5px 5px 5px rgb(123, 81, 156);
+    }
+
+.spring1{
+    display:flexbox;
+    color: rgb(66, 3, 10);
+    font-size: larger;
+    margin-left: 200px;
+    margin-right: 200px;
+}

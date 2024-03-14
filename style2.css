@@ -1,0 +1,19 @@
+body{
+    background: url("./summerseason.jpg");
+    background-repeat: no-repeat;
+    background-size:cover; 
+}
+h1{
+    font-size:100px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(6, 2, 74);
+    text-shadow: 5px 5px 5px rgb(255, 247, 0);
+ }
+ .summer1{
+        color: rgb(3, 8, 69);
+        font-size: larger;
+       
+        margin-left: 200px;
+        margin-right: 200px;
+        margin-top: -50px;
+ }

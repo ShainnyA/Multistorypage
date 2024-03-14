@@ -1,0 +1,20 @@
+body{
+    background: url("./autumnseason.jpg");
+    background-repeat: no-repeat;
+    background-size:cover; 
+}
+h1{
+    font-size:100px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(90, 7, 90);
+    text-shadow: 5px 5px 5px rgb(255, 247, 0);
+    
+ }
+ .autumn1{
+        color: rgb(66, 3, 10);
+        font-size: larger;
+        
+        margin-left: 100px;
+        margin-right: 100px;
+        margin-top: -50px;
+ }
